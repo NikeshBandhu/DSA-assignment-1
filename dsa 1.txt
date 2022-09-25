@@ -1,0 +1,11 @@
+Enter No. Of Family Members:3
+Enter Family Member 1 Name:Dinesh bandhu
+Enter Family Member 1 Age:48
+Enter Family Member 2 Name:Neeru bala
+Enter Family Member 2 Age:42
+Enter Family Member 3 Name:Gunjan bandhu
+Enter Family Member 3 Age:15
+
+Doubly Linked list with my family members as elements is shown below:
+
+[Name:Dinesh bandhu Age:48]<=>[Name:Neeru bala Age:42]<=>[Name:Gunjan bandhu Age:15]<=>
